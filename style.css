@@ -1,0 +1,18 @@
+.container .logo{
+    height: 100px;
+    width: 400px;
+    right: 30px;
+    background-color: #F0FFF0;
+}
+.position{
+    width: 554px;
+    height: 346px;
+    left: 691px;
+    top: 157px;
+}
+.container-inner{
+    color: #21b986;
+}
+.div{
+    padding-top: 50%;
+}
